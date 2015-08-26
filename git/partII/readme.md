@@ -1,6 +1,5 @@
 New changes made by thnguyn2
 This is the change 1 for the file
-
 Version Control Part II
 =======================
 
