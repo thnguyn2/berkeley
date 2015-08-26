@@ -1,4 +1,5 @@
 New changes made by thnguyn2
+Add change 2 to the readme file
 Version Control Part II
 =======================
 
